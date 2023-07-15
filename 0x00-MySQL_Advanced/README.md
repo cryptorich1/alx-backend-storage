@@ -1,6 +1,11 @@
 # MySQL Advanced
 
 This project contains tasks for learning advanced MySQL features.
+Resources:
+https://devhints.io/mysql
+https://www.liquidweb.com/kb/mysql-optimization-how-to-leverage-mysql-database-indexing/
+https://dev.mysql.com/doc/refman/5.7/en/functions.html
+https://dev.mysql.com/doc/refman/5.7/en/create-table.html
 
 ## Tasks To Complete
 
